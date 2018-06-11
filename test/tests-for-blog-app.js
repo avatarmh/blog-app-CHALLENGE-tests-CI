@@ -118,7 +118,7 @@ describe('BlogPosts', function () {
     const updateData = {
       title: 'Theory of Relativity',
       author: 'Albert Einstein',
-      content: 'foo bar baz',
+      content: 'foo bar bizz',
       publishDate: '2018-06-10'
       };
     console.log('updateData = ', updateData);
